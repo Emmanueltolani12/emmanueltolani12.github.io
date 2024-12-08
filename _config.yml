@@ -14,7 +14,7 @@ description              : &description "Agricultural economist"
 url                      : "https://emmanueltolani12.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "emmanueltolani12/emmanueltolani12.github.io"
-teaser                   : "merfeld_preview.png"
+teaser                   : "Emmanuel pic.jpg"
 breadcrumbs              : false # true, false (default)
 seo_description          : "Site for Emmanuel Tolani, Graduate Student at UniBonn"
 words_per_minute         : 160
@@ -82,8 +82,8 @@ analytics:
 # Site Author
 author:
   name             : "Emmanuel Tolani"
-  avatar           : "Emmanuel pic.jpgpng"
-  bio              : "Development, labor, poverty, and data <br> <br> Associate Professor at the KDI School <br> Research Affiliate, IZA <br> Invited researcher, J-PAL"
+  avatar           : "Emmanuel pic.jpg"
+  bio              : "Development, labor, poverty, and data <br> <br> Research Assistant UniBonn <br> Research Affiliate, IZA <br> Invited researcher, J-PAL"
   location         : "Bonn, Germany"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=wPPXKHcAAAAJ&hl=en"
