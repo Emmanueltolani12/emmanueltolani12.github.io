@@ -58,8 +58,8 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : &twitter "emmanueltolani"
-facebook:
-  username               : 
+linkedin:
+  username               : &linkedin "emmanuel-tolani-8037456b"
   app_id                 :
   publisher              :
 og_image                 : "Emmanuel pic.jpg" # Open Graph/Twitter default site image
@@ -93,15 +93,15 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : 
+  facebook         : "emmanuel.tolani"
   foursquare       :
   github           : "emmanueltolani12"
   google_plus      :
   keybase          :
-  instagram        : 
+  instagram        : "emmanueltolani1"
   lastfm           :
-  linkedin         :
-  orcid            : 
+  linkedin         : *linkedin
+  orcid            : "0000-0001-6084-1192"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
@@ -111,7 +111,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "emmanueltolani5512"
   # wikipedia        : 
 
 
