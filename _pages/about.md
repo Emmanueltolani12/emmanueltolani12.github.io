@@ -9,6 +9,15 @@ redirect_from:
 ---
 
 {% include base_path %}
+- 🔭 I’m a graduate student in Agricultural and Food Economics at the [University of Bonn](https://www.uni-bonn.de/en) in Germany & working as Research Assistant at the [Institute for Food and Resource Economics (ILR)](https://www.ilr1.uni-bonn.de/en) & [Institute for Microeconomics](https://www.econ.uni-bonn.de/micro/en)
+- :dancing_men: I’m looking forward to collaborating on applied microeconometric studies in agriculture and nutrition
+- 💬 Reach out to me about R & python for data analytics
+- 🤓 Learning about geospatial analysis for sustainable agriculture and nutrition security
+- 📫 Get in touch through:
+    - [🐱‍💻X](https://x.com/EmmanuelTolani)
+    - [📩emmanueltolani@gmail.com](emmanueltolani@gmail.com)
+    - [👩‍💻LinkedIn](https://www.linkedin.com/in/emmanuel-tolani-8037456b/)
+- 😄Pronouns: He/Him
 
 I am an associate professor at the KDI School of Public Policy and Management in Sejong City, South Korea. I am also a Research Affiliate at IZA (Institute of Labor Economics) in Bonn, Germany, an Invited Researcher with the Abdul Latif Jameel Poverty Action Lab (J-PAL), and an Affiliated Researcher at Global Action for Policy (GAP).
 
